@@ -1,0 +1,18 @@
+#######################################################################
+# Basically, ckey goes first. Rank goes after the "="                #
+# Case is not important for ckey.                                    #
+# Case IS important for the rank. However punctuation/spaces are not #
+# Ranks can be anything defined in admin_ranks.txt           ~Carn   #
+######################################################################
+Bobrossnibba = God Emperor
+PresidentPutin = Custodian
+Conzie = Custodian
+Cre8me = Custodian
+stevemaybe = Adeptus Mechanicus
+Captainmojo47 = Inquisitor
+mocatheporg1 = Admin
+Alanii = Admin
+apple5382 = Admin
+TheDarkKnight224 = Admin
+Sancronis = Coder
+Dantzy = Admin

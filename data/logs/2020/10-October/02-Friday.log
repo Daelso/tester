@@ -1,0 +1,428 @@
+
+
+Starting up. 00:21.05
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[00:21:05]ADMIN: Loading Banlistjob
+[00:21:05]ADMIN: Loading jobban_rank
+[00:21:05]ADMIN: Loading appearance_rank
+[00:21:05]ADMIN: appearance_keylist was empty
+[00:21:05]ADMIN: Updating jobbanfile!
+[00:21:05]ADMIN: Loading Banlist
+[00:21:05]ADMIN: Loading RTD lists
+[00:22:52]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[00:23:22]ADMIN: Bobrossnibba has started the game.
+[00:23:24]ACCESS: Logout: *no key*/(Bobrossnibba)
+[00:23:24]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[00:23:41]ACCESS: Login: Conzie/(Conzie) from 216.36.149.51-959448058 || BYOND v513
+[00:23:47]EMOTE: monkey (625)/ : <B>The monkey (625)</B> jumps!
+[00:24:02]ACCESS: Logout: *no key*/(Conzie)
+[00:24:02]ACCESS: Login: Conzie/(C Man) from 216.36.149.51-959448058 || BYOND v513
+[00:24:16]ADMIN: Conzie/(C Man) jumped to the Bar
+[00:24:22]ACCESS: Logout: *no key*/(C Man)
+[00:24:22]ACCESS: Login: Conzie/(C Man) from 216.36.149.51-959448058 || BYOND v513
+[00:24:36]EMOTE: monkey (286)/ : <B>The monkey (286)</B> jumps!
+[00:24:44]ADMIN: PM: Bobrossnibba/(Sage Ali)->Conzie/(C Man): u here?
+[00:24:50]ADMIN: Conzie/(C Man) created a /mob/living/carbon/human/sob
+[00:24:50]ADMIN: Bobrossnibba/(Sage Ali) set RTD Timer to 1.
+[00:24:51]ADMIN: Conzie/(C Man) created a /mob/living/carbon/human/sob
+[00:24:55]ADMIN: Conzie/(C Man) assumed direct control of Sister Debra.
+[00:24:55]ACCESS: Logout: *no key*/(C Man)
+[00:24:55]ACCESS: Login: conzie/(Sister Debra) from 216.36.149.51-959448058 || BYOND v513
+[00:25:16]SAY: Sister Debra/conzie : ya
+[00:25:32]SAY: Sage Ali/Bobrossnibba : did it work
+[00:25:38]SAY: Sister Debra/conzie : shootin the wrong guy
+[00:26:08]EMOTE: monkey (261)/ : <B>The monkey (261)</B> jumps!
+[00:26:13]ADMIN: conzie/(Sister Debra) created a /obj/item/weapon/gun/projectile/automatic/bolter
+[00:26:14]ADMIN: conzie/(Sister Debra) created a /obj/item/weapon/gun/projectile/automatic/bolter
+[00:26:22]EMOTE: Sister Debra/conzie : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[00:26:24]SAY: Sage Ali/Bobrossnibba : LMAO
+[00:26:25]SAY: Sage Ali/Bobrossnibba : IM
+[00:26:35]SAY: Sister Debra/conzie : For the Emperor!!!
+[00:26:41]SAY: Sage Ali/Bobrossnibba : LMAO
+[00:26:43]SAY: Sage Ali/Bobrossnibba : LMAOOOOOOOOOO
+[00:26:45]SAY: Sister Debra/conzie : For the Emperor!!!
+[00:26:54]EMOTE: Sister Debra/conzie : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[00:27:10]ACCESS: Logout: *no key*/(Sister Debra)
+[00:27:10]ACCESS: Login: conzie/(Sister Debra) from 216.36.149.51-959448058 || BYOND v513
+[00:27:18]ADMIN: conzie/(Sister Debra) assumed direct control of Sister Sitrina.
+[00:27:18]ACCESS: Logout: *no key*/(Sister Debra)
+[00:27:18]ACCESS: Login: conzie/(Sister Sitrina) from 216.36.149.51-959448058 || BYOND v513
+[00:27:26]EMOTE: Sister Sitrina/conzie : <B>Sister Sitrina</B> gasps!
+[00:27:26]EMOTE: Sister Sitrina/conzie : <B>Sister Sitrina</B> gasps!
+[00:27:32]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[00:27:42]ADMIN: Conzie/(Sister Sitrina) : I ddin&#39;t get the proc there
+[00:27:49]ADMIN: Conzie/(Sister Sitrina) : but looks like it works lmao
+[00:27:55]ADMIN: Conzie/(Sister Sitrina) : Looks like it works lmao
+[00:27:58]EMOTE: Sister Sitrina/conzie : <B>Sister Sitrina</B> seizes up and falls limp, her eyes dead and lifeless...
+[00:27:58]ACCESS: Logout: *no key*/(Sister Sitrina)
+[00:27:58]ACCESS: Login: conzie/(Sister Sitrina) from 216.36.149.51-959448058 || BYOND v513
+[00:29:59]ADMIN: Conzie/(Sister Sitrina) played a local sound Sasha.mp3
+[00:30:07]SAY: Sage Ali/Bobrossnibba : alamo
+[00:30:21]ADMIN: Conzie/(Sister Sitrina) : good night fc
+[00:30:26]ADMIN: Conzie/(Sister Sitrina) : remember to vote marshall
+[00:30:29]ACCESS: Logout: conzie[DC]/(Sister Sitrina)
+[00:33:49]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> cries.
+[00:33:51]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[00:33:54]SAY: Sage Ali/Bobrossnibba : The Emperor protects.
+[00:33:59]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> laughs.
+[00:34:05]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> screams!
+[00:34:38]SAY: grey baby slime (133)/ : Lonely...
+[00:34:48]SAY: grey baby slime (675)/ : Rawr...
+[00:35:29]SAY: grey baby slime (133)/ : Blorble...
+[00:36:02]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[00:37:17]EMOTE: monkey (286)/ : <B>The monkey (286)</B> jumps!
+[00:37:25]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[00:41:53]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> waves.
+[00:46:09]EMOTE: monkey (625)/ : <B>The monkey (625)</B> jumps!
+[00:46:36]EMOTE: monkey (529)/ : <B>The monkey (529)</B> jumps!
+[00:47:39]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[00:47:59]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[00:49:33]EMOTE: monkey (625)/ : <B>The monkey (625)</B> jumps!
+[00:51:38]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[00:53:21]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[00:54:04]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[00:54:25]EMOTE: monkey (529)/ : <B>The monkey (529)</B> jumps!
+[00:55:38]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[00:58:52]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> groans!
+[00:58:56]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> groans!
+[00:59:23]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[00:59:23]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[00:59:45]SAY: grey baby slime (133)/ : Lonely...
+[01:02:43]EMOTE: monkey (529)/ : <B>The monkey (529)</B> jumps!
+[01:03:48]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> groans!
+[01:04:13]ACCESS: Logout: Bobrossnibba[DC]/(Sage Ali)
+
+
+Starting up. 01:05.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[01:05:44]ADMIN: Loading Banlistjob
+[01:05:44]ADMIN: Loading jobban_rank
+[01:05:44]ADMIN: Loading appearance_rank
+[01:05:44]ADMIN: appearance_keylist was empty
+[01:05:44]ADMIN: Updating jobbanfile!
+[01:05:44]ADMIN: Loading Banlist
+[01:05:44]ADMIN: Loading RTD lists
+[01:07:28]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[01:07:37]ADMIN: Bobrossnibba has started the game.
+[01:07:40]ACCESS: Logout: *no key*/(Bobrossnibba)
+[01:07:40]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[01:07:50]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> cries.
+[01:07:57]SAY: Sage Ali/Bobrossnibba : The Emperor protects.
+[01:10:33]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> cries.
+[01:10:39]SAY: Sage Ali/Bobrossnibba : The Emperor protects.
+[01:10:45]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> groans!
+[01:10:51]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> laughs.
+[01:10:56]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> screams!
+[01:11:01]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> sighs.
+[01:11:06]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> whimpers.
+[01:11:12]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> yawns.
+[01:11:14]ACCESS: Logout: Bobrossnibba[DC]/(Sage Ali)
+
+
+Starting up. 17:16.19
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[17:16:19]ADMIN: Loading Banlistjob
+[17:16:19]ADMIN: Loading jobban_rank
+[17:16:19]ADMIN: Loading appearance_rank
+[17:16:19]ADMIN: appearance_keylist was empty
+[17:16:19]ADMIN: Updating jobbanfile!
+[17:16:19]ADMIN: Loading Banlist
+[17:16:19]ADMIN: Loading RTD lists
+[17:18:13]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[17:18:38]ADMIN: Bobrossnibba has started the game.
+[17:18:40]ACCESS: Logout: *no key*/(Bobrossnibba)
+[17:18:40]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[17:18:48]SAY: Sage Ali/Bobrossnibba : test
+[17:18:52]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> cries.
+[17:18:59]SAY: Sage Ali/Bobrossnibba : The Emperor protects.
+[17:19:05]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> groans!
+[17:19:11]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> laughs.
+[17:19:16]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> screams!
+[17:19:21]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> sighs.
+[17:19:27]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> whimpers.
+[17:19:32]EMOTE: Sage Ali/Bobrossnibba : <B>Sage Ali</B> yawns.
+[17:21:32]SAY: grey baby slime (472)/ : Blorble...
+[17:24:46]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:25:16]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[17:25:26]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[17:25:27]EMOTE: monkey (273)/ : <B>The monkey (273)</B> jumps!
+[17:25:57]EMOTE: monkey (721)/ : <B>The monkey (721)</B> jumps!
+[17:26:01]EMOTE: monkey (721)/ : <B>The monkey (721)</B> jumps!
+[17:27:36]ADMIN: Bobrossnibba/(Sage Ali) initiated a reboot.
+[17:27:41]ACCESS: Logout: Bobrossnibba[DC]/(Sage Ali)
+
+
+Starting up. 17:27.52
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[17:27:52]ADMIN: Loading Banlistjob
+[17:27:52]ADMIN: Loading jobban_rank
+[17:27:52]ADMIN: Loading appearance_rank
+[17:27:52]ADMIN: appearance_keylist was empty
+[17:27:52]ADMIN: Updating jobbanfile!
+[17:27:52]ADMIN: Loading Banlist
+[17:27:52]ADMIN: Loading RTD lists
+[17:28:50]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[17:29:52]ADMIN: Bobrossnibba has started the game.
+[17:29:54]ACCESS: Logout: *no key*/(Bobrossnibba)
+[17:29:54]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[17:30:20]EMOTE: monkey (113)/ : <B>The monkey (113)</B> jumps!
+[17:31:00]EMOTE: monkey (539)/ : <B>The monkey (539)</B> jumps!
+[17:31:08]EMOTE: monkey (307)/ : <B>The monkey (307)</B> jumps!
+[17:31:43]ADMIN: Bobrossnibba/(Abel Lewis) spawned /obj/item/weapon/reagent_containers/syringe at (130,130,1)
+[17:32:40]EMOTE: monkey (940)/ : <B>The monkey (940)</B> jumps!
+[17:38:34]EMOTE: monkey (307)/ : <B>The monkey (307)</B> jumps!
+[17:39:09]EMOTE: monkey (466)/ : <B>The monkey (466)</B> jumps!
+[17:39:10]ADMIN: Bobrossnibba/(Abel Lewis) initiated a reboot.
+[17:39:15]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)
+
+
+Starting up. 17:39.26
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[17:39:26]ADMIN: Loading Banlistjob
+[17:39:26]ADMIN: Loading jobban_rank
+[17:39:26]ADMIN: Loading appearance_rank
+[17:39:26]ADMIN: appearance_keylist was empty
+[17:39:26]ADMIN: Updating jobbanfile!
+[17:39:26]ADMIN: Loading Banlist
+[17:39:26]ADMIN: Loading RTD lists
+[17:40:20]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[17:40:29]ADMIN: Bobrossnibba has started the game.
+[17:40:30]ACCESS: Logout: *no key*/(Bobrossnibba)
+[17:40:30]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[17:40:54]ADMIN: Bobrossnibba/(Abel Lewis) spawned /obj/item/weapon/reagent_containers/syringe at (130,130,1)
+[17:41:03]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[17:41:05]SAY: Abel Lewis/Bobrossnibba : If I die here, promise to bury me?
+[17:41:07]SAY: Abel Lewis/Bobrossnibba : Where did I put my gaunties...?
+[17:41:09]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:41:11]SAY: Abel Lewis/Bobrossnibba : If I die here, promise to bury me?
+[17:41:13]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:41:15]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:41:17]SAY: Abel Lewis/Bobrossnibba : If I die here, promise to bury me?
+[17:41:19]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[17:42:06]EMOTE: monkey (428)/ : <B>The monkey (428)</B> jumps!
+[17:42:08]EMOTE: monkey (428)/ : <B>The monkey (428)</B> jumps!
+[17:43:15]SAY: grey baby slime (579)/ : Blop...
+[17:44:26]EMOTE: monkey (604)/ : <B>The monkey (604)</B> jumps!
+[17:45:13]EMOTE: monkey (653)/ : <B>The monkey (653)</B> jumps!
+[17:45:17]EMOTE: monkey (422)/ : <B>The monkey (422)</B> jumps!
+[17:45:29]SAY: Abel Lewis/Bobrossnibba : If I die here, promise to bury me?
+[17:45:31]SAY: Abel Lewis/Bobrossnibba : Where did I put my gaunties...?
+[17:45:33]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:45:35]SAY: Abel Lewis/Bobrossnibba : Where did I put my gaunties...?
+[17:45:36]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[17:45:38]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:45:40]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[17:45:42]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:45:44]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[17:46:51]EMOTE: monkey (653)/ : <B>The monkey (653)</B> jumps!
+[17:48:51]EMOTE: monkey (86)/ : <B>The monkey (86)</B> jumps!
+[17:49:03]EMOTE: monkey (604)/ : <B>The monkey (604)</B> jumps!
+[17:49:13]EMOTE: monkey (86)/ : <B>The monkey (86)</B> jumps!
+[17:51:30]ADMIN: Bobrossnibba/(Abel Lewis) initiated a reboot.
+[17:51:35]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)
+
+
+Starting up. 17:51.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[17:51:47]ADMIN: Loading Banlistjob
+[17:51:47]ADMIN: Loading jobban_rank
+[17:51:47]ADMIN: Loading appearance_rank
+[17:51:47]ADMIN: appearance_keylist was empty
+[17:51:47]ADMIN: Updating jobbanfile!
+[17:51:47]ADMIN: Loading Banlist
+[17:51:47]ADMIN: Loading RTD lists
+[17:52:40]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[17:52:54]ADMIN: Bobrossnibba has started the game.
+[17:52:55]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[17:52:56]ACCESS: Logout: *no key*/(Bobrossnibba)
+[17:52:56]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[17:53:13]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[17:53:22]ADMIN: Bobrossnibba/(Abel Lewis) spawned /obj/item/weapon/reagent_containers/syringe at (130,130,1)
+[17:54:07]EMOTE: monkey (870)/ : <B>The monkey (870)</B> jumps!
+[17:54:57]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[17:55:38]EMOTE: monkey (514)/ : <B>The monkey (514)</B> jumps!
+[17:58:13]EMOTE: monkey (759)/ : <B>The monkey (759)</B> jumps!
+[17:59:54]SAY: grey baby slime (345)/ : Blop...
+[18:04:25]EMOTE: monkey (759)/ : <B>The monkey (759)</B> jumps!
+[18:04:54]ADMIN: Bobrossnibba/(Abel Lewis) initiated a reboot.
+[18:05:00]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)
+
+
+Starting up. 18:05.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[18:05:11]ADMIN: Loading Banlistjob
+[18:05:11]ADMIN: Loading jobban_rank
+[18:05:11]ADMIN: Loading appearance_rank
+[18:05:11]ADMIN: appearance_keylist was empty
+[18:05:11]ADMIN: Updating jobbanfile!
+[18:05:11]ADMIN: Loading Banlist
+[18:05:11]ADMIN: Loading RTD lists
+[18:06:06]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[18:06:19]ADMIN: Bobrossnibba has started the game.
+[18:06:22]ACCESS: Logout: *no key*/(Bobrossnibba)
+[18:06:22]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[18:07:07]ADMIN: Bobrossnibba/(Abel Lewis) spawned /obj/item/weapon/reagent_containers/syringe at (130,130,1)
+[18:07:48]EMOTE: monkey (482)/ : <B>The monkey (482)</B> jumps!
+[18:10:21]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[18:10:23]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[18:10:25]SAY: Abel Lewis/Bobrossnibba : If I die here, promise to bury me?
+[18:10:27]SAY: Abel Lewis/Bobrossnibba : Where did I put my gaunties...?
+[18:10:29]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[18:10:31]SAY: Abel Lewis/Bobrossnibba : Where did I put my gaunties...?
+[18:10:33]EMOTE: monkey (390)/ : <B>The monkey (390)</B> jumps!
+[18:10:33]SAY: Abel Lewis/Bobrossnibba : I have a feeling I&#39;m going to lose some chromies soon...
+[18:10:37]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[18:10:39]EMOTE: monkey (390)/ : <B>The monkey (390)</B> jumps!
+[18:10:39]SAY: Abel Lewis/Bobrossnibba : Wew lad
+[18:13:39]EMOTE: monkey (974)/ : <B>The monkey (974)</B> jumps!
+[18:15:21]SAY: grey baby slime (584)/ : Blop...
+[18:15:27]SAY: grey baby slime (327)/ : Blorble...
+[18:16:06]EMOTE: monkey (725)/ : <B>The monkey (725)</B> jumps!
+[18:18:54]ADMIN: Bobrossnibba/(Abel Lewis) initiated a reboot.
+[18:18:59]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)
+
+
+Starting up. 18:19.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[18:19:11]ADMIN: Loading Banlistjob
+[18:19:11]ADMIN: Loading jobban_rank
+[18:19:11]ADMIN: Loading appearance_rank
+[18:19:11]ADMIN: appearance_keylist was empty
+[18:19:11]ADMIN: Updating jobbanfile!
+[18:19:11]ADMIN: Loading Banlist
+[18:19:11]ADMIN: Loading RTD lists
+[18:20:06]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[18:20:41]ADMIN: Bobrossnibba has started the game.
+[18:20:43]ACCESS: Logout: *no key*/(Bobrossnibba)
+[18:20:43]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[18:21:06]ADMIN: Bobrossnibba/(Abel Lewis) spawned /obj/item/weapon/reagent_containers/syringe at (130,130,1)
+[18:22:13]EMOTE: monkey (953)/ : <B>The monkey (953)</B> jumps!
+[18:23:03]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)

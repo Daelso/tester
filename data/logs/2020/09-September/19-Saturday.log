@@ -1,0 +1,39 @@
+
+
+Starting up. 22:45.25
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[22:45:26]ADMIN: Loading Banlistjob
+[22:45:26]ADMIN: Loading jobban_rank
+[22:45:26]ADMIN: Loading appearance_rank
+[22:45:26]ADMIN: appearance_keylist was empty
+[22:45:26]ADMIN: Updating jobbanfile!
+[22:45:26]ADMIN: Loading Banlist
+[22:45:26]ADMIN: Loading RTD lists
+[22:47:46]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1010201418 || BYOND v513
+[22:47:53]ADMIN: Bobrossnibba has started the game.
+[22:47:54]EMOTE: monkey (587)/ : <B>The monkey (587)</B> jumps!
+[22:47:54]ACCESS: Logout: *no key*/(Bobrossnibba)
+[22:47:54]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1010201418 || BYOND v513
+[22:48:04]ADMIN: Bobrossnibba/(Abel Lewis) used gibself.
+[22:48:05]ACCESS: Logout: *no key*/(Abel Lewis)
+[22:48:05]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1010201418 || BYOND v513
+[22:48:08]ACCESS: Logout: *no key*/(Abel Lewis)
+[22:48:08]ACCESS: Login: Bobrossnibba/(Unknown) from 73.178.13.81-1010201418 || BYOND v513
+[22:50:03]EMOTE: monkey (953)/ : <B>The monkey (953)</B> jumps!
+[22:50:07]ACCESS: Logout: Bobrossnibba[DC]/(Fsdf)

@@ -1,0 +1,395 @@
+
+
+Starting up. 01:51.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[01:51:11]ADMIN: Loading Banlistjob
+[01:51:11]ADMIN: Loading jobban_rank
+[01:51:11]ADMIN: Loading appearance_rank
+[01:51:11]ADMIN: appearance_keylist was empty
+[01:51:11]ADMIN: Updating jobbanfile!
+[01:51:11]ADMIN: Loading Banlist
+[01:51:11]ADMIN: Loading RTD lists
+[01:53:04]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[01:53:17]ADMIN: Bobrossnibba has started the game.
+[01:53:19]ACCESS: Logout: *no key*/(Bobrossnibba)
+[01:53:19]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[01:53:48]SAY: Tom/ : SQUEEK!
+[01:53:59]ADMIN: Bobrossnibba/(Abel Lewis) added roninwerty to Ultramarines.
+[01:54:58]EMOTE: monkey (6)/ : <B>The monkey (6)</B> jumps!
+[01:55:04]ADMIN: Bobrossnibba/(Abel Lewis) added xsaber2 to SOB.
+[01:55:35]ADMIN: Bobrossnibba/(Abel Lewis) added franz emmerich to Ravenguard.
+[01:55:43]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[01:56:22]ADMIN: Bobrossnibba/(Abel Lewis) added patata to Eldar.
+[01:56:55]EMOTE: monkey (6)/ : <B>The monkey (6)</B> jumps!
+[01:57:09]ADMIN: Bobrossnibba/(Abel Lewis) added telvannihorator76 to Tau.
+[01:57:34]EMOTE: monkey (30)/ : <B>The monkey (30)</B> jumps!
+[01:57:45]ADMIN: Bobrossnibba/(Abel Lewis) added natorix to Salamanders.
+[01:59:57]EMOTE: monkey (30)/ : <B>The monkey (30)</B> jumps!
+[02:00:07]ACCESS: Logout: Bobrossnibba[DC]/(Abel Lewis)
+
+
+Starting up. 13:06.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[13:06:47]ADMIN: Loading Banlistjob
+[13:06:47]ADMIN: Loading jobban_rank
+[13:06:47]ADMIN: Loading appearance_rank
+[13:06:47]ADMIN: appearance_keylist was empty
+[13:06:47]ADMIN: Updating jobbanfile!
+[13:06:47]ADMIN: Loading Banlist
+[13:06:47]ADMIN: Loading RTD lists
+[13:09:20]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[13:09:51]ADMIN: Bobrossnibba has started the game.
+[13:09:53]ACCESS: Logout: *no key*/(Bobrossnibba)
+[13:09:53]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[13:10:30]ADMIN: Bobrossnibba/(Abel Lewis) set RTD Timer to 1.
+[13:10:35]ADMIN: Bobrossnibba/(Abel Lewis) used gibself.
+[13:10:37]ACCESS: Logout: *no key*/(Abel Lewis)
+[13:10:37]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1508471533 || BYOND v513
+[13:11:01]ACCESS: Logout: *no key*/(Abel Lewis)
+[13:11:01]ACCESS: Login: Bobrossnibba/(Brother Marcus) from 73.178.13.81-1508471533 || BYOND v513
+[13:11:11]SAY: grey baby slime (748)/ : Rawr...
+[13:12:16]ACCESS: Logout: Bobrossnibba[DC]/(Brother Marcus)
+[13:40:26]ACCESS: Login: Bobrossnibba/(Brother Marcus) from 73.178.13.81-1508471533 || BYOND v513
+[13:40:49]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[13:41:12]ADMIN: Bobrossnibba/(Brother Marcus) added bakedebeans to Ultramarines.
+[13:42:36]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[13:43:51]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[13:45:17]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[13:45:49]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[13:46:12]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[13:47:11]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[13:47:25]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[13:49:10]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:49:45]SAY: grey baby slime (748)/ : Blop...
+[13:50:28]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[13:50:30]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[13:51:57]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:53:51]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[13:54:21]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[13:54:23]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[13:54:33]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:55:34]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:56:53]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[13:57:01]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:57:50]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:58:20]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:59:01]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[13:59:13]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:59:15]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[13:59:17]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:59:22]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[13:59:30]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[13:59:34]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:00:00]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:00:00]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:00:51]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[14:01:07]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:01:15]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:02:16]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:02:40]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:03:25]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[14:03:33]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:03:55]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:04:43]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[14:05:06]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[14:05:08]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:05:46]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:06:58]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:08:34]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:10:03]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:11:15]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:11:34]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:11:48]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:11:48]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:12:00]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[14:12:21]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:12:51]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:13:22]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:14:00]SAY: grey baby slime (1)/ : Blop...
+[14:14:15]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:14:21]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:14:41]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[14:15:07]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:15:40]SAY: Heretic/ : Brains
+[14:15:46]SAY: Heretic/ : Brains
+[14:15:58]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:16:11]SAY: grey baby slime (748)/ : Lonely...
+[14:16:17]SAY: grey baby slime (1)/ : Blorble...
+[14:16:17]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:16:23]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:16:25]SAY: Heretic/ : So hungry!
+[14:16:35]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:16:37]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:16:53]SAY: Heretic/ : Hungry!
+[14:17:07]SAY: Heretic/ : So hungry!
+[14:17:54]SAY: grey baby slime (1)/ : Lonely...
+[14:18:37]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:18:55]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:20:03]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:20:11]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:20:55]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:21:12]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[14:22:45]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:23:00]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:23:04]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:23:46]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:23:56]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[14:24:19]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:24:31]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:25:01]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:25:11]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:25:13]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:25:13]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:25:18]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:25:45]SAY: grey baby slime (748)/ : I want to eat...
+[14:25:56]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[14:26:06]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:26:06]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:26:19]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:26:21]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:26:45]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:26:47]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:26:57]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[14:27:13]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:27:56]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:28:14]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:28:18]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:28:24]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:28:31]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:29:01]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:29:17]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:29:39]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:29:43]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:30:04]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:30:08]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:30:08]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:30:14]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[14:30:42]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:31:01]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:31:05]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:31:09]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:31:19]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:31:25]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:31:27]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:31:33]SAY: grey baby slime (748)/ : Where is the food?
+[14:31:33]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:31:45]SAY: grey baby slime (748)/ : Blorble...
+[14:31:45]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:31:47]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:31:56]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:32:42]SAY: grey baby slime (1)/ : Lonely...
+[14:32:46]EMOTE: Heretic/ : <B>Heretic</B> sniffs.
+[14:33:41]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:33:45]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:33:51]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[14:33:51]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:33:53]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:34:21]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:34:27]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:34:52]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:35:08]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:35:20]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:35:47]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[14:36:46]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:36:52]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:37:02]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:37:08]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:38:22]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:39:09]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:39:32]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:39:40]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:40:12]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:40:53]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:41:04]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:41:34]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:42:00]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:42:14]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:42:16]SAY: grey baby slime (1)/ : Blorble...
+[14:42:51]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:43:09]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:43:42]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:44:08]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[14:44:16]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:44:28]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:44:45]SAY: grey baby slime (748)/ : Where is the food?
+[14:45:13]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:45:27]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:46:05]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:46:30]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:46:40]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:47:14]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:47:47]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:47:58]SAY: grey baby slime (1)/ : Rawr...
+[14:48:04]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:48:12]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:48:30]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:48:50]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:49:54]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:50:39]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:50:55]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:51:05]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:51:20]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:51:28]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:51:38]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:51:40]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:52:06]SAY: grey baby slime (1)/ : Lonely...
+[14:52:16]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:52:18]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:53:07]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[14:53:13]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:53:19]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:53:50]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[14:54:17]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:54:31]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:54:33]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:54:45]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:55:08]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:55:22]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:55:28]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:55:30]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:55:30]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:55:34]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:56:05]SAY: grey baby slime (748)/ : Rawr...
+[14:56:17]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:56:23]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:56:27]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:56:31]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[14:56:58]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[14:57:00]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:57:26]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:57:28]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:57:34]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:58:00]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:58:02]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:58:16]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:58:24]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:58:28]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:58:34]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:58:42]SAY: grey baby slime (748)/ : Where is the food?
+[14:58:54]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[14:58:58]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:59:08]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[14:59:12]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:59:16]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[14:59:18]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[14:59:21]SAY: grey baby slime (748)/ : Hungry...
+[15:00:11]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[15:00:17]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:00:21]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[15:00:23]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[15:00:25]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[15:00:27]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[15:00:35]EMOTE: Heretic/ : <B>Heretic</B> gasps!
+[15:00:39]EMOTE: Heretic/ : <B>Heretic</B> sneezes.
+[15:00:55]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[15:00:57]EMOTE: Heretic/ : <B>Heretic</B> coughs!
+[15:01:03]EMOTE: Heretic/ : <B>Heretic</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:02:16]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[15:05:47]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[15:07:09]SAY: grey baby slime (1)/ : Rawr...
+[15:08:14]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[15:08:16]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[15:09:35]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:16:15]SAY: grey baby slime (748)/ : Where is the food?
+[15:16:42]SAY: grey baby slime (748)/ : Where is the food?
+[15:17:53]SAY: grey baby slime (748)/ : Lonely...
+[15:19:26]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:23:27]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[15:23:29]SAY: grey baby slime (748)/ : So... hungry...
+[15:25:32]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[15:25:52]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[15:26:09]SAY: grey baby slime (748)/ : Blop...
+[15:27:36]SAY: grey baby slime (1)/ : Very... hungry...
+[15:27:54]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:28:39]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:28:55]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[15:28:59]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:30:38]SAY: grey baby slime (748)/ : Need... food...
+[15:30:46]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[15:31:23]SAY: grey baby slime (748)/ : Rawr...
+[15:32:22]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:33:41]SAY: grey baby slime (1)/ : Need... food...
+[15:33:43]SAY: grey baby slime (748)/ : Lonely...
+[15:33:53]SAY: grey baby slime (1)/ : Need... food...
+[15:35:12]SAY: grey baby slime (748)/ : Rawr...
+[15:35:43]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[15:43:40]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[15:45:54]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[15:48:53]SAY: grey baby slime (1)/ : So... hungry...
+[15:52:35]SAY: grey baby slime (1)/ : Blop...
+[15:54:12]SAY: grey baby slime (748)/ : Rawr...
+[15:55:42]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[15:56:39]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[15:56:41]SAY: grey baby slime (748)/ : Lonely...
+[15:56:49]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[15:57:11]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[15:57:23]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:01:57]SAY: grey baby slime (748)/ : Need... food...
+[16:02:53]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:04:33]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:05:57]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[16:06:38]SAY: grey baby slime (748)/ : So... hungry...
+[16:07:55]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:09:02]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:09:47]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:12:13]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[16:13:04]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[16:14:59]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[16:17:13]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:18:59]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:19:58]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:21:20]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[16:21:44]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:22:10]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[16:22:25]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:22:35]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:23:19]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:24:22]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:24:44]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:26:09]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:28:40]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:30:30]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[16:31:09]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[16:31:51]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:35:39]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[16:38:04]EMOTE: monkey (611)/ : <B>The monkey (611)</B> jumps!
+[16:38:49]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:40:18]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:41:47]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:41:57]EMOTE: monkey (437)/ : <B>The monkey (437)</B> jumps!
+[16:44:30]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:45:39]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[16:48:40]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[16:48:54]ACCESS: Logout: Bobrossnibba[DC]/(Brother Marcus)

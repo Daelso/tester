@@ -1,0 +1,30 @@
+
+
+Starting up. 15:58.34
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode Callidus Assassin (callidus) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Unknown game mode probability configuration definition: changeling.
+Saved mode is 'extended'
+[15:58:34]ADMIN: Loading Banlistjob
+[15:58:34]ADMIN: Loading jobban_rank
+[15:58:34]ADMIN: Loading appearance_rank
+[15:58:34]ADMIN: appearance_keylist was empty
+[15:58:34]ADMIN: Updating jobbanfile!
+[15:58:34]ADMIN: Loading Banlist
+[15:58:34]ADMIN: Loading RTD lists
+[16:00:50]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[16:02:48]ACCESS: Logout: Bobrossnibba[DC]/(Bobrossnibba)

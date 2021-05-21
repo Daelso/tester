@@ -1,0 +1,90 @@
+
+
+Starting up. 14:13.40
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[14:13:40]ADMIN: Loading Banlistjob
+[14:13:40]ADMIN: Loading jobban_rank
+[14:13:40]ADMIN: Loading appearance_rank
+[14:13:40]ADMIN: appearance_keylist was empty
+[14:13:40]ADMIN: Updating jobbanfile!
+[14:13:40]ADMIN: Loading Banlist
+[14:13:40]ADMIN: Loading RTD lists
+[14:15:14]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1010201418 || BYOND v513
+[14:15:43]ADMIN: Bobrossnibba has started the game.
+[14:15:45]ACCESS: Logout: *no key*/(Bobrossnibba)
+[14:15:45]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1010201418 || BYOND v513
+[14:16:32]ADMIN: Bobrossnibba/(Abel Lewis) used gibself.
+[14:16:33]ACCESS: Logout: *no key*/(Abel Lewis)
+[14:16:33]ACCESS: Login: Bobrossnibba/(Abel Lewis) from 73.178.13.81-1010201418 || BYOND v513
+[14:16:42]ADMIN: Bobrossnibba/(Abel Lewis) set RTD Timer to 1.
+[14:17:01]ACCESS: Logout: *no key*/(Abel Lewis)
+[14:17:01]ACCESS: Login: Bobrossnibba/(Unknown) from 73.178.13.81-1010201418 || BYOND v513
+[14:17:25]EMOTE: Dfsa/Bobrossnibba : <B>Dfsa</B> seizes up and falls limp, her eyes dead and lifeless...
+[14:17:29]EMOTE: monkey (641)/ : <B>The monkey (641)</B> jumps!
+[14:19:21]EMOTE: monkey (903)/ : <B>The monkey (903)</B> jumps!
+[14:19:33]EMOTE: monkey (359)/ : <B>The monkey (359)</B> jumps!
+[14:20:50]ACCESS: Logout: *no key*/(Dfsa)
+[14:20:50]ACCESS: Login: Bobrossnibba/(Dfsa) from 73.178.13.81-1010201418 || BYOND v513
+[14:20:50]ADMIN: *null* used gibself.
+[14:20:51]EMOTE: monkey (631)/ : <B>The monkey (631)</B> jumps!
+[14:20:53]ACCESS: Logout: *no key*/(Dfsa)
+[14:20:53]ACCESS: Login: Bobrossnibba/(Brother Benedictus) from 73.178.13.81-1010201418 || BYOND v513
+[14:21:14]ADMIN: Bobrossnibba/(Brother Benedictus) jumped to the Bar
+[14:21:33]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[14:22:04]ADMIN: Bobrossnibba/(Brother Benedictus) used gibself.
+[14:22:05]ACCESS: Logout: *no key*/(Brother Benedictus)
+[14:22:05]ACCESS: Login: Bobrossnibba/(Brother Benedictus) from 73.178.13.81-1010201418 || BYOND v513
+[14:22:08]ACCESS: Logout: *no key*/(Brother Benedictus)
+[14:22:08]ACCESS: Login: Bobrossnibba/(Brother Marcus) from 73.178.13.81-1010201418 || BYOND v513
+[14:22:52]EMOTE: monkey (765)/ : <B>The monkey (765)</B> jumps!
+[14:24:00]EMOTE: monkey (903)/ : <B>The monkey (903)</B> jumps!
+[14:24:04]SAY: grey baby slime (420)/ : Blop...
+[14:24:26]EMOTE: monkey (359)/ : <B>The monkey (359)</B> jumps!
+[14:25:33]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[14:25:53]ADMIN: Bobrossnibba/(Brother Marcus) initiated a reboot.
+[14:25:58]ACCESS: Logout: Bobrossnibba[DC]/(Brother Marcus)
+
+
+Starting up. 14:26.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Saved mode is 'extended'
+[14:26:09]ADMIN: Loading Banlistjob
+[14:26:09]ADMIN: Loading jobban_rank
+[14:26:09]ADMIN: Loading appearance_rank
+[14:26:09]ADMIN: appearance_keylist was empty
+[14:26:09]ADMIN: Updating jobbanfile!
+[14:26:09]ADMIN: Loading Banlist
+[14:26:09]ADMIN: Loading RTD lists
+[14:27:01]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1010201418 || BYOND v513
+[14:28:01]ACCESS: Logout: Bobrossnibba[DC]/(Bobrossnibba)

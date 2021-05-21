@@ -1,0 +1,141 @@
+
+
+Starting up. 00:41.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'cult'
+[00:41:02]ADMIN: Loading Banlistjob
+[00:41:02]ADMIN: Loading jobban_rank
+[00:41:02]ADMIN: Loading appearance_rank
+[00:41:02]ADMIN: appearance_keylist was empty
+[00:41:02]ADMIN: Updating jobbanfile!
+[00:41:02]ADMIN: Loading Banlist
+[00:41:02]ADMIN: Loading RTD lists
+[00:44:00]ACCESS: Login: Planetary/(Planetary) from 194.207.154.231-2899566061 || BYOND v513
+[00:44:33]ACCESS: Logout: Planetary[DC]/(Planetary)
+[00:45:22]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[00:47:16]ADMIN: Bobrossnibba has started the game.
+[00:47:32]ADMIN: Bobrossnibba has started the game.
+[00:47:41]ADMIN: Bobrossnibba/(Bobrossnibba) set the mode as extended.
+[00:47:47]ADMIN: Bobrossnibba has started the game.
+[00:47:49]ACCESS: Logout: *no key*/(Bobrossnibba)
+[00:47:49]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[00:47:59]ACCESS: Logout: *no key*/(Sage Ali)
+[00:47:59]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[00:48:16]ADMIN: Bobrossnibba/(Sage Ali) jumped to the Wizard's Den
+[00:48:21]ADMIN: Bobrossnibba/(Sage Ali) teleported @Bobrossnibba[DC]/(Sage Ali)
+[00:48:23]ACCESS: Logout: *no key*/(Sage Ali)
+[00:48:23]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[00:50:56]EMOTE: monkey (238)/ : <B>The monkey (238)</B> jumps!
+[00:50:56]EMOTE: monkey (303)/ : <B>The monkey (303)</B> jumps!
+[00:51:53]EMOTE: monkey (604)/ : <B>The monkey (604)</B> jumps!
+[00:53:51]EMOTE: monkey (303)/ : <B>The monkey (303)</B> jumps!
+[00:54:55]EMOTE: monkey (238)/ : <B>The monkey (238)</B> jumps!
+[00:55:01]EMOTE: monkey (604)/ : <B>The monkey (604)</B> jumps!
+[00:55:43]EMOTE: monkey (35)/ : <B>The monkey (35)</B> jumps!
+[00:57:07]ACCESS: Logout: Bobrossnibba[DC]/(Sage Ali)
+
+
+Starting up. 18:33.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:33:37]ADMIN: Loading Banlistjob
+[18:33:37]ADMIN: Loading jobban_rank
+[18:33:37]ADMIN: Loading appearance_rank
+[18:33:37]ADMIN: appearance_keylist was empty
+[18:33:37]ADMIN: Updating jobbanfile!
+[18:33:37]ADMIN: Loading Banlist
+[18:33:37]ADMIN: Loading RTD lists
+[18:36:38]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[18:37:01]ADMIN: Bobrossnibba has started the game.
+[18:37:02]ACCESS: Logout: *no key*/(Bobrossnibba)
+[18:37:02]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[18:37:31]EMOTE: monkey (984)/ : <B>The monkey (984)</B> jumps!
+[18:38:56]ADMIN: Bobrossnibba/(Sage Ali) used gibself.
+[18:38:58]ACCESS: Logout: *no key*/(Sage Ali)
+[18:38:58]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[18:40:33]ADMIN: Bobrossnibba/(Sage Ali) created a /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose
+[18:40:41]ADMIN: Bobrossnibba/(Sage Ali) assumed direct control of Bruce.
+[18:40:41]ACCESS: Logout: *no key*/(Sage Ali)
+[18:40:41]ACCESS: Login: bobrossnibba/(Goose) from 73.178.13.81-1508471533 || BYOND v513
+[18:43:05]EMOTE: monkey (633)/ : <B>The monkey (633)</B> jumps!
+[18:43:30]SAY: grey baby slime (39)/ : Lonely...
+[18:45:33]EMOTE: monkey (244)/ : <B>The monkey (244)</B> jumps!
+[18:45:45]EMOTE: monkey (633)/ : <B>The monkey (633)</B> jumps!
+[18:46:32]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[18:48:23]SAY: grey baby slime (39)/ : Lonely...
+[18:49:38]EMOTE: monkey (633)/ : <B>The monkey (633)</B> jumps!
+[18:49:54]SAY: grey baby slime (39)/ : Blorble...
+[18:52:02]EMOTE: monkey (244)/ : <B>The monkey (244)</B> jumps!
+[18:52:43]EMOTE: monkey (633)/ : <B>The monkey (633)</B> jumps!
+[18:55:02]SAY: grey baby slime (899)/ : Blorble...
+[18:58:05]EMOTE: monkey (984)/ : <B>The monkey (984)</B> jumps!
+[18:58:23]EMOTE: monkey (743)/ : <B>The monkey (743)</B> jumps!
+[18:58:46]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[19:00:39]ACCESS: Logout: bobrossnibba[DC]/(Goose)
+
+
+Starting up. 19:01.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[19:01:20]ADMIN: Loading Banlistjob
+[19:01:20]ADMIN: Loading jobban_rank
+[19:01:20]ADMIN: Loading appearance_rank
+[19:01:20]ADMIN: appearance_keylist was empty
+[19:01:20]ADMIN: Updating jobbanfile!
+[19:01:20]ADMIN: Loading Banlist
+[19:01:20]ADMIN: Loading RTD lists
+[19:03:06]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1508471533 || BYOND v513
+[19:03:55]ADMIN: Bobrossnibba has started the game.
+[19:03:57]ACCESS: Logout: *no key*/(Bobrossnibba)
+[19:03:57]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[19:04:01]ADMIN: Bobrossnibba/(Sage Ali) used gibself.
+[19:04:03]ACCESS: Logout: *no key*/(Sage Ali)
+[19:04:03]ACCESS: Login: Bobrossnibba/(Sage Ali) from 73.178.13.81-1508471533 || BYOND v513
+[19:04:08]ADMIN: Bobrossnibba/(Sage Ali) created a /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose
+[19:04:13]ADMIN: Bobrossnibba/(Sage Ali) assumed direct control of Bruce.
+[19:04:13]ACCESS: Logout: *no key*/(Sage Ali)
+[19:04:13]ACCESS: Login: bobrossnibba/(Goose) from 73.178.13.81-1508471533 || BYOND v513
+[19:04:35]EMOTE: monkey (802)/ : <B>The monkey (802)</B> jumps!
+[19:05:18]ACCESS: Logout: bobrossnibba[DC]/(Goose)

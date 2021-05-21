@@ -1,0 +1,36 @@
+
+
+Starting up. 15:44.56
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode Callidus Assassin (callidus) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode Memestealer Cult (Meme) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: revolution.
+Unknown game mode probability configuration definition: changeling.
+Saved mode is 'extended'
+[15:44:56]ADMIN: Loading Banlistjob
+[15:44:56]ADMIN: Loading jobban_rank
+[15:44:56]ADMIN: Loading appearance_rank
+[15:44:56]ADMIN: appearance_keylist was empty
+[15:44:56]ADMIN: Updating jobbanfile!
+[15:44:56]ADMIN: Loading Banlist
+[15:44:56]ADMIN: Loading RTD lists
+[15:48:59]ACCESS: Login: Daelso/(Daelso) from 73.178.13.81-1010201418 || BYOND v513
+[15:49:30]ACCESS: Logout: Daelso[DC]/(Daelso)
+[15:49:45]ACCESS: Login: Bobrossnibba/(Bobrossnibba) from 73.178.13.81-1010201418 || BYOND v513
+[15:49:59]ADMIN: Bobrossnibba/(Bobrossnibba) removed roninwerty from Ultramarines.
+[15:50:08]ADMIN: Bobrossnibba/(Bobrossnibba) added roninqwerty to Ultramarines.
+[15:50:52]ADMIN: Bobrossnibba/(Bobrossnibba) added 501st_scavenger to Salamanders.
+[15:52:54]ADMIN: Bobrossnibba/(Bobrossnibba) added shadowkiller104 to PM.
+[15:54:43]ACCESS: Logout: Bobrossnibba[DC]/(Bobrossnibba)
